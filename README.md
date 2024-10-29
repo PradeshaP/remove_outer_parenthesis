@@ -1,1 +1,1 @@
-# remove_outer_parenthesis
+This C++ program defines a class Solution that includes a method removeOuterParentheses. The purpose of this method is to take a string of parentheses and remove the outermost parentheses from every primitive substring. A primitive substring is defined as a non-empty substring that has no unmatched parentheses.
